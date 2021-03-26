@@ -1,0 +1,13 @@
+version: '3.1'
+
+services:
+
+  app:
+    container_name: fast_api
+    ports:
+      - 8000:80
+    build:
+      context: ./app
+
+
+  
