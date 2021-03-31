@@ -1,9 +1,9 @@
 # Une infra dans le Cloud
 Projet de groupe réalisé par Aude et Ludivine
 
-Créer une base PostGres hébergée sur RDS 
-Créer une API sur EC2
-Executer des requêtes
+- Créer une base PostGres hébergée sur RDS 
+- Créer une API sur EC2
+- Exécuter des requêtes
 
 ## 1. Créer l'instance EC2
 Tout d'abord nous avons créé une instance sur EC2 (en choisissant les options gratuites, et l'image Ubuntu 20.04)
